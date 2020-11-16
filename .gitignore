@@ -1,0 +1,12 @@
+.vscode/
+node_modules/
+.env/
+assets/*
+
+Framework/*
+Core/*
+
+dist/renderer/index.js
+dist/index.js
+
+index.drawio

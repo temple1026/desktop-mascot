@@ -1,0 +1,8 @@
+body{
+    -webkit-app-region: no-drag;
+    margin: 0;
+}
+
+.titlebar{
+    -webkit-app-region: drag;
+}

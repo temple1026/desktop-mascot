@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",
+    "removeComments": true,
+    "sourceMap": true,
+    "baseUrl": "./",
+    "paths": {
+      "@framework/*": ["Framework/src/*"]
+    }
+  },
+  // "include": [
+  //   "./src/*",
+  //   "./Core/*.ts", 
+  //   "./Framework/*"
+  // ],
+  // "exclude": [
+  //   "node_modules",
+  //   "dist"
+  // ]
+}
